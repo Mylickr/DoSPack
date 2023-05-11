@@ -1,0 +1,2 @@
+# DDoSPack
+DDoS Methods pack. USE ONLY FOR ACQUAINTANCE!
